@@ -18,4 +18,10 @@ To show rating insights, I used Ctrl + A to highlight the Data then I inserted t
 To show the Average rating by Gender, I dragged ratings again into the Values, changed Field settings to Average, then I inserted a Bar chart.
 
 ### Question 3: Analyse the company’s salary structure. Identify if there is a gender pay gap. If there is, identify the department and regions that should be the focus of management.
+To analyse the salary structure, I selected the dataset then inserted a pivot Table. Then I dragged Gender to Rows, Salary to Values. This shows the overall gender gap pay.
+To identify the location and department for Management focus: In the same pivot Table, drag Department to Row(below gender) then inserted a clustered column chart.
+I created a new pivot Table, I dragged Gender to Rows, Location to columns and Average salary to Values to prevent the chart from being too busy.
 
+### Question 4: A recent regulation was adopted which requires manufacturing companies to payemployees a minimum of $90,000.
+● Does Palmoria meet this requirement? ● Show the pay distribution of employees grouped by a band of $10,000. For example:
+● How many employees fall into a band of $10,000 – $20,000, $20,000 – $30,000, etc.? ● Also visualize this by regions
